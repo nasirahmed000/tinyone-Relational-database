@@ -1,0 +1,269 @@
+/* <!-- designed & developed by Md Nasir Ahmed 
+  id 193002105
+department of CSE 
+Green Univeristy of Bangladesh --> */
+/* common start  */
+body{
+    font-family: 'PT Sans', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    color:  #898989;
+    padding-top: 109px;
+
+    
+}
+.c_padding{
+    padding-top: 100px;
+    padding-bottom: 120px;
+}
+/* common end  */
+
+/* header start  */
+header{
+    background-color: #fcdb00 ;
+    padding: 20px 0;
+}
+.c_nav{}
+.logo{}
+.menu{}
+.menu li a{
+    font-size: 22px;
+    font-weight: 700;
+    color:   #010101 !important;
+    padding: 0 30px !important;
+
+
+}
+.menu li:last-child a{
+    padding: right 0px  !important;
+}
+.menu li a:hover{
+    color: white !important;
+}
+
+/* header end */
+
+/* slider start  */
+.slider{
+    background-color: #fcdb00;
+    padding-bottom: 100px;
+
+}
+.c_ind {
+    bottom: -80px ;
+}
+.c_ind [data-bs-target] {
+    
+    width: 15px;
+    height: 15px;
+    border-radius: 50% ;
+    background-color: #fff; 
+    
+}
+
+.s_text{
+    margin-top: 50px;  
+}
+.s_text h1{
+    font-size: 32px;
+    font-weight: 700;
+    color:   #010101 !important;
+}
+.s_text h2{
+    margin: 20px 0;
+    font-size: 20px;
+    font-weight: 400;
+    color: #010101 !important;
+}
+.s_text p{
+    color: #555555;
+    margin-bottom: 35px;
+
+}
+.s_icon{
+    color: #010101;
+    font-size: 42px;
+     
+}
+.s_icon ul li {
+   
+}
+
+.s_icon ul li i{
+    margin-right: 30px !important;
+    transition: .3s;
+}
+.s_icon ul li i:hover{
+    transform: scale(.8);
+    /* color: white;  */
+}
+.s_img{}
+.s_img img{}
+/* slider end */
+
+/* feature start  */
+.feature{
+   
+}
+.c_title{
+    
+}
+.c_h1{
+    margin-bottom: 15px;
+    font-size: 32px;
+    font-weight: 700;
+    color:   #010101 !important; 
+}
+
+.c_p{
+    font-size: 20px;
+    color: #313841;
+    line-height: 28px;
+}
+
+/* feature end */
+
+/* feature item start  */
+.f_item{
+    margin-top: 70px;
+}
+.f_icon{}
+.f_icon i{
+    margin-top: 2px;
+    font-size: 50px;
+    color: #010101;
+    transition: .3s; 
+}
+.f_icon i:hover{
+    transform: scale(.80);
+}
+.f_text{
+    
+}
+.f_text h2{
+    margin-bottom: 10px;
+    font-size: 22px;
+    font-weight: 400;
+    color: #010101;
+
+}
+.f_text p{
+    letter-spacing: 1px;
+}
+
+/* feature item end */
+
+
+/* contact start  */
+.contact{
+background-color: #010101; 
+}
+.yellow{
+    color: #fcdb00 !important ;
+}
+.ash{
+    color: #898989;
+}
+
+.c_input{
+    height: 55px;
+    font-family:'PT Sans', sans-serif ;
+    color: #898989;
+    padding: 15px 20px;
+    
+}
+.c_form{
+    margin-top: 35px;
+    margin-bottom: 70px;
+}
+.c_submit{
+    width: 100%;
+    height: 50px;
+    background-color: #fcdb00;
+    text-transform: uppercase;
+    font-family:'PT Sans', sans-serif ;
+    font-size: 16px;
+    font-weight: 700;
+    color: #010101;
+
+}
+.c_submit:hover{
+    color: #010101;
+    background-color: #fff;
+}
+
+.c_icon{
+
+}
+.c_icon li a{
+    margin-right: 35px !important;
+    font-size: 42px;
+    color: #fcdb00;
+    transition: .3s;
+}
+.c_icon li a:hover{
+    color: #fff;
+}
+
+/* contact end */
+
+/* footer start  */
+
+footer{
+    background-color: #010101;
+    padding-bottom: 120px ;
+}
+.f_1{
+    color: #fff;
+}
+.f_1 address{
+
+}
+.f_2{
+  
+}
+.f_2 p a{
+    color: #fff;
+    text-decoration: none;
+}
+
+.f_3{
+   
+}
+.f_3 p a{
+    color: #fff;
+    text-decoration: none;
+}
+.f_4{
+   
+}
+.f_4 p a{
+    color: #fff;
+    text-decoration: none;
+}
+.f_5{
+    
+}
+.f_5 p a{
+    color: #fff;
+    text-decoration: none;
+
+}
+.footer2{
+    background-color: #010101;
+}
+
+.f_l{
+    
+    text-decoration: none;
+    color: #fcdb00;
+    font-size: 22px;
+}
+
+/* footer start  */
+
+
+/* <!-- designed by Md Nasir Ahmed 
+  id 193002105
+department of CSE 
+Green Univeristy of Bangladesh --> */
